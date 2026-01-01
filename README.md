@@ -59,12 +59,4 @@
 
 ---
 
-## 🎯 Goals for 2025
-
-- Deepen my expertise in smart contract auditing.
-- Contribute to open-source projects in the Web3 space.
-- Explore advanced Web3 concepts like Account Abstraction.
-
----
-
 Thank you for visiting my profile! 😊
